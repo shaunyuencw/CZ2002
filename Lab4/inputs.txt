@@ -1,0 +1,9 @@
+3
+Circle
+10
+Triangle
+20
+25
+Rectangle
+50
+20
